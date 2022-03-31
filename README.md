@@ -1,3 +1,3 @@
 # gitbolla
 
-trsining purpose only
+training purpose only
